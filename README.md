@@ -58,3 +58,9 @@ If you wish to submit/maintain this package on the Arch User Repository (AUR):
 - **Client Only**: Configured with `-Dclient=ON -Dserver=OFF` to compile only the user-facing client.
 - **Qt6 & Modern Stack**: Uses Qt6, Opus, Protobuf, and Ninja build system.
 - **Git Submodules**: `git submodule update --init --recursive` is run in `prepare()` to fetch internal submodules like `minhook`, `spdlog`, and `rnnoise`.
+
+## Support
+
+If you find this project useful, please consider supporting it:
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9m2pju%40hamradio.my&currency_code=MYR&item_name=Mumble-9M2PJU-AUR)
